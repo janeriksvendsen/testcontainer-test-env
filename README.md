@@ -4,4 +4,10 @@ A template repository intended to help create isolated repro examples for [testc
 
 To use this as a template, click the `Use this template` button above.
 
-Code to reproduce the issue should be located in [ReproExample](src/test/java/org/testcontainers/repro/ReproExample.java).
+Code to reproduce the issue should be located in [ReproExample](src/test/java/org/testcontainers/repro/ReproExample.java)
+
+
+# added to test github actions
+
+
+.
